@@ -1,5 +1,5 @@
 {
-  "name-web":"Apps and Games for Android",
+  "name-web":"Printable Calendar 2022",
   "author":"FreeApkMod",
   "remove-comment-html":true,
   "target":"https://printablecalendar2022.pages.dev/",
@@ -20,14 +20,14 @@
   ],
   "costom-element-remove":[
     {
-      "target":"printablecalendar.freeapkmod.xyz",
+      "target":"printablecalendar.someso.nl",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://printablecalendar.freeapkmod.xyz",
+          "target":"https://printablecalendar.someso.nl",
           "replace":"${nameWeb}"
         }
       ]
